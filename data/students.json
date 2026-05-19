@@ -1,0 +1,15 @@
+[
+    {
+        "id": "001",
+        "name": "Hugo,Janssen J.",
+        "subjects": [
+            "Math"
+        ],
+        "scores": [
+            [
+                "Math",
+                88.0
+            ]
+        ]
+    }
+]
